@@ -1,0 +1,465 @@
+,company,job_title,company_rating,location,salary_avg_estimate,company_size,company_founded,employment_type,industry,sector,career_opportunities_rating,comp_and_benefits_rating,culture_and_values_rating,senior_management_rating,work_life_balance_rating
+0,ABB,Junior Data Analyst,4.0,Bengaluru,325236.0,10000+ Employees,1883,Public,Electronics Manufacturing,Manufacturing,3.7,3.6,4.0,3.5,3.9
+1,Beinex,Trainee in Data Science,3.9,Cochin,280977.0,201 to 500 Employees,2017,Private,Information Technology Support Services,Information Technology,3.8,3.6,3.9,3.9,3.5
+2,Oracle,Data Scientist,3.8,Bengaluru,709930.0,10000+ Employees,1977,Public,Enterprise Software & Network Solutions,Information Technology,3.6,3.5,3.7,3.5,4.0
+3,PhonePe,Data Scientist,4.1,Bengaluru,1024695.0,5001 to 10000 Employees,2015,Private,Internet & Web Services,Information Technology,4.0,4.2,4.1,3.7,3.8
+4,BigShyft,Data Scientist,3.9,Bengaluru,2000000.0,1 to 50 Employees,2018,Private,HR Consulting,Human Resources & Staffing,3.7,3.8,3.5,3.3,3.1
+5,Findem,Researcher - Data Operations Intern,4.3,Remote,9000.0,51 to 200 Employees,2019,Private,Internet & Web Services,Information Technology,4.2,4.3,4.1,4.2,4.0
+6,News Corp,Data Analyst,3.6,Bengaluru,522206.0,10000+ Employees,2013,Public,Publishing,Media & Communication,3.5,3.4,3.3,3.2,3.5
+7,"Medpace, Inc.",Clinical Data Coder,3.4,Thāne,579224.0,5001 to 10000 Employees,1992,Public,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,3.3,3.0,3.2,3.0,3.2
+8,Microsoft,Data Annotation Specialist,4.2,Hyderābād,317979.0,10000+ Employees,1975,Public,Computer Hardware Development,Information Technology,4.0,4.1,4.2,3.8,4.1
+9,TVS Supply Chain Solutions,Data Entry Operator,3.4,Bengaluru,255288.0,501 to 1000 Employees,--,Private,Shipping & Trucking,Transportation & Logistics,3.2,2.9,3.0,3.0,3.0
+10,Nissan,Data Engineer I,3.9,Thiruvananthapuram,443415.0,10000+ Employees,1933,Public,Transportation Equipment Manufacturing,Manufacturing,3.6,3.7,3.7,3.5,3.4
+11,MathCo,Associate - Data Science,3.5,Bengaluru,876519.0,1001 to 5000 Employees,2016,Private,Business Consulting,Management & Consulting,3.6,3.4,3.6,3.2,2.9
+12,Amex,Analyst - Data Analytics,4.2,Gurgaon,482311.0,10000+ Employees,1850,Public,Financial Transaction Processing,Finance,3.8,4.0,4.2,3.8,4.1
+13,KPMG,Digital Trust S&G-Data Privacy and Ethics Analyst,3.8,Gurgaon,495831.0,10000+ Employees,1987,Private,Business Consulting,Management & Consulting,4.0,3.3,3.7,3.5,3.0
+14,Infosys,Healthcare Data Analyst,3.8,Chennai,533713.0,10000+ Employees,1981,Public,Information Technology Support Services,Information Technology,3.8,3.0,4.0,3.5,3.7
+15,Alcon,Data Analyst - Digital Health,3.8,Bengaluru,784161.0,10000+ Employees,1945,Public,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,3.4,3.9,3.6,3.3,3.5
+16,Deutsche Bank,Data Scientist,4.0,Pune,595940.0,10000+ Employees,1870,Public,Banking & Lending,Finance,3.9,3.8,4.1,3.7,4.1
+17,Wipro,Data Analyst,3.7,Bengaluru,494975.0,10000+ Employees,1945,Public,Information Technology Support Services,Information Technology,3.6,3.2,3.7,3.3,3.5
+18,NatWest Group,"Data Analyst, AVP",4.1,Gurgaon,579938.0,10000+ Employees,1727,Public,Banking & Lending,Finance,3.7,3.5,4.2,3.7,4.3
+19,Telstra,Data Insights & Analytics Analyst,3.9,Bengaluru,1014936.0,10000+ Employees,1901,Public,Telecommunications Services,Telecommunications,3.6,3.7,3.9,3.5,4.2
+20,BMC Software,Data Scientist,4.1,Pune,712088.0,5001 to 10000 Employees,1980,Private,Enterprise Software & Network Solutions,Information Technology,3.8,4.1,4.1,3.8,4.0
+21,Reliance Games,Data Analytics,3.5,Pune,469012.0,51 to 200 Employees,--,Private,Video Game Publishing,Media & Communication,3.8,3.2,3.4,2.9,3.1
+22,Intercontinental Exchange,Data Analyst I,3.8,Hyderābād,469042.0,5001 to 10000 Employees,2000,Public,Stock Exchanges,Finance,3.5,3.7,3.5,3.3,3.6
+23,Infifresh Foods,Data Analyst,3.6,Bengaluru,948683.0,Unknown,2019,Private,Fishery,Agriculture,3.5,3.6,3.6,3.2,3.4
+24,Coforge Ltd.,DATA ANALYST,3.6,Greater Noida,781721.0,10000+ Employees,2004,Public,Information Technology Support Services,Information Technology,3.4,3.3,3.5,3.2,3.5
+25,"Medpace, Inc.",Data Coordinator,3.4,Thāne,589237.0,5001 to 10000 Employees,1992,Public,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,3.3,3.0,3.2,3.0,3.2
+26,Valenta BPO,Data Analyst,3.2,Bengaluru,550000.0,51 to 200 Employees,2014,Private,HR Consulting,Human Resources & Staffing,3.2,2.7,3.1,3.1,3.6
+27,PhonePe,Senior Data Analyst,4.1,Bengaluru,777892.0,5001 to 10000 Employees,2015,Private,Internet & Web Services,Information Technology,4.0,4.2,4.1,3.7,3.8
+28,Tata Consultancy Services,"Data Science, Python, GraphDB",3.8,Bengaluru,648074.0,10000+ Employees,1968,Public,Software Development,Information Technology,3.7,3.1,3.9,3.3,3.8
+29,Tata Consultancy Services,Employee Data Governance!,3.8,Bengaluru,536656.0,10000+ Employees,1968,Public,Software Development,Information Technology,3.7,3.1,3.9,3.3,3.8
+30,Infosys,Data Privacy_Consulting,3.8,Bengaluru,720103.0,10000+ Employees,1981,Public,Information Technology Support Services,Information Technology,3.8,3.0,4.0,3.5,3.7
+31,Tata Technologies Europe,ALM Users - Data Mining,3.8,Bengaluru,789523.0,10000+ Employees,1989,Private,Research & Development,Management & Consulting,3.6,3.4,3.8,3.4,3.8
+32,"Medpace, Inc.",Clinical Data Reviewer,3.4,Thāne,648398.0,5001 to 10000 Employees,1992,Public,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,3.3,3.0,3.2,3.0,3.2
+33,Sectigo,Data Analyst,3.4,Chennai,636962.0,201 to 500 Employees,2008,Private,Computer Hardware Development,Information Technology,3.0,2.9,3.0,3.0,3.3
+34,Wrike Careers Page,Customer Support Data Analyst,3.8,Bengaluru,562146.0,1001 to 5000 Employees,2006,Private,Software Development,Information Technology,3.4,3.7,3.9,3.3,4.1
+35,WovV Technologies,Data Engineer (WFH),4.7,Remote,1000000.0,Unknown,--,Public,--,--,4.5,4.5,4.6,4.6,4.6
+36,Rotork,Data Analyst,3.7,Chennai,569738.0,1001 to 5000 Employees,--,Public,Electronics Manufacturing,Manufacturing,3.5,3.2,3.5,3.4,3.9
+37,Wipro Limited,Data Privacy/Data Analyst,3.7,Bengaluru,494975.0,10000+ Employees,1945,Public,Information Technology Support Services,Information Technology,3.6,3.2,3.7,3.3,3.5
+38,Nielsen,Data Scientist,3.6,Bengaluru,615061.0,10000+ Employees,1923,Public,Enterprise Software & Network Solutions,Information Technology,3.2,3.2,3.7,3.1,3.8
+39,Fractal Analytics,Cloud Data Engineer,4.0,Bengaluru,881722.0,1001 to 5000 Employees,2000,Private,Business Consulting,Management & Consulting,4.0,3.7,4.2,3.8,3.9
+40,HP,Data Analyst,4.1,Bengaluru,869528.0,10000+ Employees,1939,Public,Computer Hardware Development,Information Technology,3.7,3.7,4.3,3.8,4.2
+41,CityLink Technology Solutions,Data Scientist,3.7,Pune,529150.0,1 to 50 Employees,2015,Private,Information Technology Support Services,Information Technology,4.5,2.7,3.9,3.7,4.4
+42,Warner Bros Careers,Associate Data Engineer,3.6,Hyderābād,556230.0,10000+ Employees,2003,Public,Film Production,Media & Communication,3.1,3.6,3.4,3.0,3.6
+43,Cargill,Data Engineer,4.1,Bengaluru,811773.0,10000+ Employees,1865,Private,Crop Production,Agriculture,3.8,3.9,4.1,3.6,3.8
+44,JPMorgan Chase & Co,Reference Data Analyst - Team Leader,4.0,Bengaluru,657267.0,10000+ Employees,1799,Public,Banking & Lending,Finance,4.0,3.9,3.9,3.6,3.7
+45,ZF,Senior Data scientist,3.9,Chennai,360000.0,10000+ Employees,1915,Public,Transportation Equipment Manufacturing,Manufacturing,3.6,3.7,3.7,3.3,3.8
+46,ADCI MAA 12 SEZ,ML Data Associate I,3.7,Chennai,280854.0,10000+ Employees,1994,Public,Internet & Web Services,Information Technology,3.7,3.8,3.6,3.3,3.2
+47,CommerceIQ,Data Scientist 1,3.1,Bengaluru,424264.0,201 to 500 Employees,2012,Private,Internet & Web Services,Information Technology,2.9,3.2,2.8,2.7,2.5
+48,Mapmygenome,Data Scientist,2.8,Hyderābād,438887.0,51 to 200 Employees,--,Private,--,--,2.9,2.4,2.5,2.5,2.2
+49,Dexcel Electronics Designs,Data Analytics,4.4,Bengaluru,745359.0,51 to 200 Employees,2010,Private,Information Technology Support Services,Information Technology,4.3,4.2,4.3,4.2,4.3
+50,JPMorgan Chase & Co,Reference Data Analyst,4.0,Bengaluru,657267.0,10000+ Employees,1799,Public,Banking & Lending,Finance,4.0,3.9,3.9,3.6,3.7
+51,Amex,Analyst-Data Science,4.2,Gurgaon,482311.0,10000+ Employees,1850,Public,Financial Transaction Processing,Finance,3.8,4.0,4.2,3.8,4.1
+52,BookMyShow,Data Analyst - I,3.9,Mumbai,375292.0,501 to 1000 Employees,1999,Private,Ticket Sales,"Arts, Entertainment & Recreation",3.8,3.5,3.6,3.5,3.4
+53,Educate Girls,Data Analyst,3.8,Jaipur,900000.0,1001 to 5000 Employees,--,Private,--,--,3.4,3.6,3.5,3.2,3.5
+54,Ignitho,Data Analyst Associate,4.3,Chennai,835332.0,51 to 200 Employees,2016,Private,Information Technology Support Services,Information Technology,4.4,4.1,4.3,4.1,4.4
+55,LKQ India,Data Analyst,3.8,Bengaluru,611782.0,10000+ Employees,1998,Public,Automotive Parts & Accessories Stores,Retail & Wholesale,3.7,3.6,3.9,3.6,3.9
+56,NEAR,Big Data Analyst,4.3,Bengaluru,774730.0,51 to 200 Employees,2012,Private,Enterprise Software & Network Solutions,Information Technology,4.2,4.0,4.3,3.8,4.3
+57,Equifax,Trainee - Data Scientist,3.5,Mumbai,987421.0,10000+ Employees,1899,Public,Business Consulting,Management & Consulting,3.4,3.4,3.3,3.1,3.4
+58,Microsoft,DATA SCIENTIST,4.2,Bengaluru,506785.0,10000+ Employees,1975,Public,Computer Hardware Development,Information Technology,4.0,4.1,4.2,3.8,4.1
+59,RARR Technologies Pvt Ltd,Snowflake Data Modeler,4.7,Remote,4500000.0,1 to 50 Employees,2018,Private,Software Development,Information Technology,4.7,4.5,4.9,4.9,4.8
+60,Fractal Analytics,Data Scientist,4.0,Bengaluru,809278.0,1001 to 5000 Employees,2000,Private,Business Consulting,Management & Consulting,4.0,3.7,4.2,3.8,3.9
+61,Aptroid Consulting,Junior Data Analyst,3.8,Hyderābād,379473.0,201 to 500 Employees,--,Private,--,--,3.5,4.3,3.7,3.6,3.1
+62,Wizikey,Junior Data Engineer (Delhi- NCR),3.7,Gurgaon,619677.0,1 to 50 Employees,--,Private,--,--,3.7,3.0,3.6,3.4,3.6
+63,Infosys,FHIR Data Analyst,3.8,Bengaluru,468897.0,10000+ Employees,1981,Public,Information Technology Support Services,Information Technology,3.8,3.0,4.0,3.5,3.7
+64,Quantiphi,Data Analyst,4.3,Mumbai,647159.0,1001 to 5000 Employees,2013,Private,Business Consulting,Management & Consulting,4.1,4.0,4.0,4.0,3.5
+65,Cargill,PMO Data and Reporting Analyst,4.1,Bengaluru,900000.0,10000+ Employees,1865,Private,Crop Production,Agriculture,3.8,3.9,4.1,3.6,3.8
+66,Scymes Services Pvt. ltd,Reference Data Analyst,2.5,Bengaluru,22500.0,Unknown,--,Public,--,--,2.5,2.5,2.5,2.0,2.0
+67,Agile CRM Inc.,Data Analyst,3.1,India,800000.0,51 to 200 Employees,2013,Private,Enterprise Software & Network Solutions,Information Technology,2.9,2.8,2.8,3.0,2.9
+68,Forbes Advisor,Trainee - Data Research,3.6,Mumbai,317572.0,201 to 500 Employees,1917,Private,Publishing,Media & Communication,3.2,3.2,3.4,3.4,3.7
+69,Airtel India,Data Analyst,4.1,Gurgaon,464758.0,10000+ Employees,1995,Public,Telecommunications Services,Telecommunications,4.0,3.9,3.9,3.7,3.6
+70,Calix,Salesforce Data Specialist,4.8,Bengaluru,328634.0,1001 to 5000 Employees,1999,Public,Enterprise Software & Network Solutions,Information Technology,4.7,4.7,4.8,4.7,4.6
+71,Cell Propulsion,Data Entry Operator,3.8,Bengaluru,10000.0,1 to 50 Employees,--,Private,--,--,3.7,2.9,3.3,3.2,3.2
+72,Zeitview,Analyst - QC data labelling,3.2,Bengaluru,505240.0,1 to 50 Employees,2014,Private,Internet & Web Services,Information Technology,3.0,2.7,3.3,3.1,3.6
+73,Merck KGaA Darmstadt Germany,"Data Analytics - TrackWise, Veeva, Palantir Foundry",4.0,Bengaluru,705220.0,10000+ Employees,1668,Public,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,3.5,3.8,3.9,3.4,3.9
+74,RARR Technologies Pvt Ltd,Specialist- Data Sciences,4.7,Remote,5200000.0,1 to 50 Employees,2018,Private,Software Development,Information Technology,4.7,4.5,4.9,4.9,4.8
+75,ABB,R&D associate Engineer- Data Science,4.0,Bengaluru,575393.0,10000+ Employees,1883,Public,Electronics Manufacturing,Manufacturing,3.7,3.6,4.0,3.5,3.9
+76,BHIVE Workspace,Associate – Data Management and Analysis,4.1,Bengaluru,354599.0,51 to 200 Employees,2014,Private,Real Estate,Real Estate,4.1,3.6,3.9,4.0,3.9
+77,Bursys,Data Analyst Tranee,3.7,Panchkula,529150.0,51 to 200 Employees,2005,Private,Information Technology Support Services,Information Technology,3.7,3.5,3.5,3.5,3.5
+78,Tata Consultancy Services,Data Analyst,3.8,Chennai,398701.0,10000+ Employees,1968,Public,Software Development,Information Technology,3.7,3.1,3.9,3.3,3.8
+79,Log9 Materials,Data Scientist,3.9,Bengaluru,363878.0,51 to 200 Employees,2015,Private,Electronics Manufacturing,Manufacturing,4.1,3.6,4.1,3.6,3.8
+80,ICON,Lab Data Analyst I,3.8,Bengaluru,421485.0,10000+ Employees,1990,Public,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,3.6,3.5,3.7,3.4,3.7
+81,Nineleaps Technology Solutions Pvt Ltd,Data Analyst,4.2,Bengaluru,572576.0,201 to 500 Employees,2014,Private,Information Technology Support Services,Information Technology,4.1,3.8,4.0,3.8,3.8
+82,Bradken,Data Scientist,4.3,Coimbatore,605338.0,1001 to 5000 Employees,2003,Public,Machinery Manufacturing,Manufacturing,4.1,3.9,4.1,3.8,4.2
+83,UBS,Data Analyst,3.9,Hyderābād,727518.0,10000+ Employees,1862,Public,Investment & Asset Management,Finance,3.6,3.5,3.9,3.5,3.8
+84,Tata Consultancy Services,Python + SQL,3.8,Hyderābād,419162.0,10000+ Employees,1968,Public,Software Development,Information Technology,3.7,3.1,3.9,3.3,3.8
+85,Tata consulting engineers,Data Entry Cum Office Assistant,3.8,Bengaluru,346627.0,1001 to 5000 Employees,1962,Private,Architectural & Engineering Services,"Construction, Repair & Maintenance Services",3.7,3.3,3.9,3.4,3.6
+86,Kovai.co,Data Analyst,4.5,Coimbatore,438621.0,51 to 200 Employees,2010,Private,Enterprise Software & Network Solutions,Information Technology,4.6,4.1,4.3,4.5,4.5
+87,Vernacular.ai,Data Annotator,3.8,Bengaluru,219333.0,51 to 200 Employees,2016,Private,Enterprise Software & Network Solutions,Information Technology,3.5,3.8,3.7,3.4,3.8
+88,Trelleborg Sealing Solutions (TSS),DATA ANALYST,3.7,Bengaluru,387298.0,10000+ Employees,1905,Public,Machinery Manufacturing,Manufacturing,3.3,3.5,3.3,3.2,3.3
+89,Volvo Group,Experienced Data Scientist,4.1,Bengaluru,783182.0,10000+ Employees,1927,Public,Transportation Equipment Manufacturing,Manufacturing,3.8,3.8,4.1,3.7,4.1
+90,Tata Consultancy Services,Data & Analytics Architect,3.8,Mumbai,393199.0,10000+ Employees,1968,Public,Software Development,Information Technology,3.7,3.1,3.9,3.3,3.8
+91,WovV Technologies,Data Scientist,4.7,Pune,1000000.0,Unknown,--,Public,--,--,4.5,4.5,4.6,4.6,4.6
+92,iXceed Solutions,Data Analyst,4.7,Gurgaon,2000000.0,501 to 1000 Employees,2012,Private,"Staffing, Recruitment & Subcontracting",Human Resources & Staffing,4.7,4.4,4.7,4.6,4.7
+93,RARR Technologies Pvt Ltd,Azure Data Engineer,4.7,Remote,2500000.0,1 to 50 Employees,2018,Private,Software Development,Information Technology,4.7,4.5,4.9,4.9,4.8
+94,AXA,Associate Scientist- Data Sourcing & Solutions,4.0,Bengaluru,798123.0,10000+ Employees,1985,Private,Insurance Carriers,Insurance,3.6,3.6,3.9,3.5,3.9
+95,Concord Technologies,Data Annotator,4.6,Chennai,423868.0,51 to 200 Employees,1996,Private,Computer Hardware Development,Information Technology,4.4,4.5,4.5,4.4,4.4
+96,Tata Consultancy Services,Data Lineage Analyst,3.8,Pune,413398.0,10000+ Employees,1968,Public,Software Development,Information Technology,3.7,3.1,3.9,3.3,3.8
+97,Metyis,Data Science Associate,3.7,Bengaluru,869483.0,1001 to 5000 Employees,2013,Private,Business Consulting,Management & Consulting,3.8,3.3,3.9,3.5,4.0
+98,Wesco,India-Bangalore: Data Steward,3.7,Bengaluru,580948.0,10000+ Employees,1922,Public,Wholesale,Retail & Wholesale,3.5,3.4,3.6,3.3,3.8
+99,WSD Consultant,Junior Data Scientist/,5.0,Bengaluru,579655.0,Unknown,--,Private,--,--,5.0,3.0,4.0,5.0,4.0
+100,CIGNEX Datamatics,Data quality analysts/engineers,3.3,Bengaluru,500799.0,501 to 1000 Employees,2000,Private,Information Technology Support Services,Information Technology,3.2,3.1,3.3,2.9,3.4
+101,Intercontinental Exchange,Data Associate,3.8,Hyderābād,409878.0,5001 to 10000 Employees,2000,Public,Stock Exchanges,Finance,3.5,3.7,3.5,3.3,3.6
+102,Ericsson,Data Engineer,4.1,Noida,701100.0,10000+ Employees,1876,Public,Telecommunications Services,Telecommunications,3.8,3.6,4.2,3.6,4.1
+103,RARR Technologies Pvt Ltd,AWS Data Engineer,4.7,Remote,2500000.0,1 to 50 Employees,2018,Private,Software Development,Information Technology,4.7,4.5,4.9,4.9,4.8
+104,Equifax,Data Scientist,3.5,Bengaluru,987421.0,10000+ Employees,1899,Public,Business Consulting,Management & Consulting,3.4,3.4,3.3,3.1,3.4
+105,Schneider Electric,Data Engineer,4.2,Bengaluru,779846.0,10000+ Employees,1836,Public,Energy & Utilities,"Energy, Mining, Utilities",4.1,3.8,4.2,3.8,4.0
+106,iCRC,BI Data Analyst,3.9,Bengaluru,460906.0,10000+ Employees,1863,Non-profit Organisation,"Civic, Welfare & Social Services",Non-profit & NGO,3.3,3.6,3.8,3.1,3.5
+107,UBS,Data Engineer,3.9,Pune,579471.0,10000+ Employees,1862,Public,Investment & Asset Management,Finance,3.6,3.5,3.9,3.5,3.8
+108,Cargill,Data Analyst - Price hub,4.1,Gurgaon,612372.0,10000+ Employees,1865,Private,Crop Production,Agriculture,3.8,3.9,4.1,3.6,3.8
+109,Wipro,Azure Data Engineer,3.7,Hyderābād,588584.0,10000+ Employees,1945,Public,Information Technology Support Services,Information Technology,3.6,3.2,3.7,3.3,3.5
+110,Amber Internet solutions,Data Analyst,4.3,Pune,494268.0,501 to 1000 Employees,2016,Private,Internet & Web Services,Information Technology,4.2,3.9,4.3,4.1,4.0
+111,BDIPlus,Data Engineer ||,4.1,Bengaluru,1025086.0,Unknown,--,Private,Information Technology Support Services,Information Technology,4.1,4.0,4.0,3.8,3.5
+112,SUPERDNA 3D LAB,Data Analyst,4.0,Chandigarh,467012.0,1 to 50 Employees,2017,Private,Information Technology Support Services,Information Technology,4.1,3.5,4.2,4.0,4.2
+113,UBS,Data Sourcing Analyst,3.9,Pune,693988.0,10000+ Employees,1862,Public,Investment & Asset Management,Finance,3.6,3.5,3.9,3.5,3.8
+114,Sea and Beyond,Data Entry,5.0,Mumbai,201246.0,Unknown,--,Private,--,--,5.0,5.0,5.0,5.0,5.0
+115,JPMorgan Chase & Co,Data Operations Associate,4.0,Bengaluru,356835.0,10000+ Employees,1799,Public,Banking & Lending,Finance,4.0,3.9,3.9,3.6,3.7
+116,UnitedHealthcare,Data Analyst 2,3.6,Bengaluru,663325.0,10000+ Employees,--,Public,Healthcare Services & Hospitals,Healthcare,3.6,3.5,3.7,3.3,3.6
+117,Honeywell,Data Scientist II,4.0,Bengaluru,551990.0,10000+ Employees,1885,Public,Computer Hardware Development,Information Technology,4.1,3.9,4.0,3.8,3.8
+118,BigShyft,Data Engineer,3.9,Gurgaon,3000000.0,1 to 50 Employees,2018,Private,HR Consulting,Human Resources & Staffing,3.7,3.8,3.5,3.3,3.1
+119,Deloitte,Senior Analyst - CMG - Demand Gen - Data Analysis,4.1,Hyderābād,603440.0,10000+ Employees,1850,Private,Accounting & Tax,Finance,4.1,4.0,4.1,3.8,3.3
+120,InfoKrafts,Data Engineer,5.0,Mumbai,591608.0,1 to 50 Employees,--,Private,--,--,5.0,5.0,4.0,5.0,4.0
+121,Microsoft,Data and Applied Scientist II,4.2,Bengaluru,607947.0,10000+ Employees,1975,Public,Computer Hardware Development,Information Technology,4.0,4.1,4.2,3.8,4.1
+122,KPMG,Advisory Data Science Executive,3.8,Pune,400000.0,10000+ Employees,1987,Private,Business Consulting,Management & Consulting,4.0,3.3,3.7,3.5,3.0
+123,Hashmap,Data and Analytics Managing Consultant,3.9,Bengaluru,794695.0,10000+ Employees,1967,Public,Information Technology Support Services,Information Technology,3.7,3.4,3.9,3.6,3.9
+124,Moody's,Data Specialist,3.9,Bengaluru,806258.0,10000+ Employees,1900,Public,Research & Development,Management & Consulting,3.4,3.4,3.8,3.4,3.7
+125,Delivery Centric Technologies,Python & Data Modelling,4.0,Bengaluru,416655.0,51 to 200 Employees,--,Private,--,--,3.8,3.7,3.6,3.7,4.1
+126,Amadeus,Data Engineer 2,4.1,Bengaluru,600000.0,10000+ Employees,1987,Public,Information Technology Support Services,Information Technology,3.9,3.8,4.2,3.6,4.3
+127,ABB,Data Scientist,4.0,Bengaluru,773628.0,10000+ Employees,1883,Public,Electronics Manufacturing,Manufacturing,3.7,3.6,4.0,3.5,3.9
+128,iXie Gaming,Game Data Analyst,4.3,Bengaluru,649084.0,501 to 1000 Employees,2011,Private,Information Technology Support Services,Information Technology,4.3,3.9,4.3,4.2,4.4
+129,JPMorgan Chase & Co,Know Your Customer - Client Data Analyst,4.0,Bengaluru,657267.0,10000+ Employees,1799,Public,Banking & Lending,Finance,4.0,3.9,3.9,3.6,3.7
+130,BlackRock,Analyst Invoice Processing (Data Operations),4.0,Gurgaon,387158.0,10000+ Employees,1988,Public,Investment & Asset Management,Finance,3.9,3.7,3.9,3.6,3.6
+131,Thinkproject Holding GmbH,Data Scientist (m/f/d),3.3,Pune,548368.0,501 to 1000 Employees,2000,Private,Enterprise Software & Network Solutions,Information Technology,3.5,3.5,3.6,3.1,4.0
+132,Aptus Data LAbs,Business Analyst/ Data Analyst,4.1,Bengaluru,440688.0,51 to 200 Employees,2014,Private,Information Technology Support Services,Information Technology,4.1,3.8,3.8,3.8,4.2
+133,JPMorgan Chase & Co,KYC Client Data Analyst,4.0,Hyderābād,639359.0,10000+ Employees,1799,Public,Banking & Lending,Finance,4.0,3.9,3.9,3.6,3.7
+134,Victoria Realtors,Data Analyst,3.3,India,350000.0,1 to 50 Employees,--,Private,--,--,3.7,3.7,2.6,3.3,2.3
+135,MetLife,Associate Data Scientist,3.9,Hyderābād,389954.0,10000+ Employees,1868,Public,Insurance Agencies & Brokerages,Insurance,3.6,3.8,3.9,3.6,3.9
+136,INTEL,Data Analyst,4.1,Bengaluru,941300.0,10000+ Employees,1968,Public,Computer Hardware Development,Information Technology,4.0,3.9,4.2,3.6,4.1
+137,Finquest,Data Engineer,3.2,Bengaluru,750000.0,201 to 500 Employees,2016,Private,Investment & Asset Management,Finance,2.9,2.7,3.1,3.1,3.1
+138,Meesho,Data Scientist II,3.5,Bengaluru,1024695.0,1001 to 5000 Employees,2015,Private,Internet & Web Services,Information Technology,3.5,3.7,3.4,3.3,3.2
+139,Toolyt,Data Analyst,4.8,Jaipur,40000.0,1 to 50 Employees,--,Private,Enterprise Software & Network Solutions,Information Technology,4.9,4.6,4.9,4.9,4.6
+140,CoStrategix,Member Data Analyst,3.9,Bengaluru,387298.0,51 to 200 Employees,2006,Private,Information Technology Support Services,Information Technology,3.9,3.5,3.9,3.7,3.6
+141,Emerson,Data Science Engineer 1,3.9,Pune,794109.0,10000+ Employees,1890,Public,Electronics Manufacturing,Manufacturing,3.7,3.4,3.9,3.5,3.8
+142,ABB,Data Science & AI Specialist,4.0,Bengaluru,773628.0,10000+ Employees,1883,Public,Electronics Manufacturing,Manufacturing,3.7,3.6,4.0,3.5,3.9
+143,Thoucentric,Data Scientist,4.1,Bengaluru,858997.0,201 to 500 Employees,2015,Private,Business Consulting,Management & Consulting,3.8,3.5,4.5,4.1,4.0
+144,HP,Data Analyst-Finance,4.1,Bengaluru,869528.0,10000+ Employees,1939,Public,Computer Hardware Development,Information Technology,3.7,3.7,4.3,3.8,4.2
+145,NatWest Group,Business Analyst,4.1,Bengaluru,483915.0,10000+ Employees,1727,Public,Banking & Lending,Finance,3.7,3.5,4.2,3.7,4.3
+146,PayU,Data Analyst,3.7,Bengaluru,380225.0,1001 to 5000 Employees,2002,Private,Internet & Web Services,Information Technology,3.6,3.6,3.6,3.4,3.6
+147,Konceive Development Center Pvt. Ltd.,Data Analyst,4.6,Panchkula,35000.0,1 to 50 Employees,--,Private,Advertising & Public Relations,Media & Communication,4.5,4.6,4.5,4.5,4.7
+148,InitiateFirst.,Data Scientist,4.7,Bengaluru,579655.0,51 to 200 Employees,--,Self-employed,--,--,4.5,4.5,4.5,4.5,5.0
+149,LXT,Hindi & English - Data Entry Clerk (Transcriber),3.3,Hyderābād,26000.0,1 to 50 Employees,2010,Private,Business Consulting,Management & Consulting,2.8,3.4,3.2,3.0,3.3
+150,Cognizant Technology Solutions,Data Analyst,3.8,Mumbai,382568.0,10000+ Employees,1994,Public,Information Technology Support Services,Information Technology,3.6,3.4,3.7,3.3,3.6
+151,Dun & Bradstreet,"Analyst, Data Science (R-15410)",3.9,Chennai,505782.0,5001 to 10000 Employees,1841,Public,Information Technology Support Services,Information Technology,3.7,3.8,3.9,3.7,4.1
+152,Haleon,Data Analyst,3.8,Gurgaon,536656.0,10000+ Employees,2022,Public,Health Care Products Manufacturing,Manufacturing,3.3,3.9,3.7,3.3,3.7
+153,JPMorgan Chase & Co,Data Visualization Associate,4.0,Hyderābād,742967.0,10000+ Employees,1799,Public,Banking & Lending,Finance,4.0,3.9,3.9,3.6,3.7
+154,Tata Consultancy Services,Azure data engineer,3.8,Bengaluru,494975.0,10000+ Employees,1968,Public,Software Development,Information Technology,3.7,3.1,3.9,3.3,3.8
+155,KPMG,Risk Advisory Data Analytics Executive,3.8,Mumbai,509902.0,10000+ Employees,1987,Private,Business Consulting,Management & Consulting,4.0,3.3,3.7,3.5,3.0
+156,Zinnov,Math- Data Analyst III,3.9,Bengaluru,216304.0,201 to 500 Employees,2002,Private,Business Consulting,Management & Consulting,3.8,3.6,3.8,3.7,3.3
+157,PayPal,Data Scientist,3.9,Bengaluru,296029.0,10000+ Employees,1998,Public,Internet & Web Services,Information Technology,3.5,3.9,3.9,3.3,4.0
+158,JPMorgan Chase & Co,Client Data Associate I,4.0,Bengaluru,456586.0,10000+ Employees,1799,Public,Banking & Lending,Finance,4.0,3.9,3.9,3.6,3.7
+159,MiQ Digital,Data Scientist II,3.6,Bengaluru,143000.0,501 to 1000 Employees,2010,Private,Advertising & Public Relations,Media & Communication,3.6,3.7,3.7,3.2,3.6
+160,Bosch Group,Data Scientists 2024,4.2,Coimbatore,975724.0,10000+ Employees,1886,Private,Consumer Product Manufacturing,Manufacturing,3.9,3.7,4.2,3.7,4.1
+161,velan,Data Analyst,4.6,Coimbatore,394360.0,201 to 500 Employees,2007,Private,Information Technology Support Services,Information Technology,4.4,4.1,4.3,4.3,4.4
+162,Next Education,Data Analyst,3.7,Hyderābād,830016.0,1001 to 5000 Employees,2007,Private,Primary & Secondary Schools,Education,3.6,3.5,3.4,3.3,3.3
+163,IDFC FIRST Bank,Data Scientist-Cx Analytics,4.1,Mumbai,917918.0,10000+ Employees,2018,Public,Banking & Lending,Finance,4.1,4.1,3.9,3.9,3.7
+164,Affine,Data Scientist,4.8,Bengaluru,459752.0,1 to 50 Employees,2016,Private Practice / Firm,Information Technology Support Services,Information Technology,4.6,3.9,4.8,4.4,4.3
+165,WPP,Data Analyst,3.6,Mumbai,381995.0,10000+ Employees,1985,Public,Advertising & Public Relations,Media & Communication,3.3,3.3,3.5,3.1,3.3
+166,Rojgar Group,Data Analytics,3.6,Remote,650000.0,1 to 50 Employees,--,Private,Information Technology Support Services,Information Technology,3.6,2.0,3.6,2.3,2.0
+167,Cargill,Analytics Data Process Analyst,4.1,Gurgaon,717577.0,10000+ Employees,1865,Private,Crop Production,Agriculture,3.8,3.9,4.1,3.6,3.8
+168,United Airlines,Data Scientist,3.9,Gurgaon,110000.0,10000+ Employees,1926,Public,"Airlines, Airports & Air Transportation",Transportation & Logistics,3.9,3.8,3.6,3.2,3.4
+169,Tata Consultancy Services,BI_Data Engineer,3.8,Chennai,432461.0,10000+ Employees,1968,Public,Software Development,Information Technology,3.7,3.1,3.9,3.3,3.8
+170,Tata Elxsi,Data Analytics / Machine Learning Engineers,4.1,Bengaluru,395285.0,10000+ Employees,1989,Public,Information Technology Support Services,Information Technology,4.1,3.4,4.2,3.7,4.0
+171,NICE Systems,Data Scientist,4.2,Pune,830662.0,5001 to 10000 Employees,1986,Public,Enterprise Software & Network Solutions,Information Technology,4.1,4.0,4.3,4.0,4.1
+172,Infosys,AZURE Data Engineer,3.8,Bengaluru,443530.0,10000+ Employees,1981,Public,Information Technology Support Services,Information Technology,3.8,3.0,4.0,3.5,3.7
+173,Barclays,Data Scientist,4.0,Chennai,841487.0,10000+ Employees,1690,Public,Banking & Lending,Finance,3.8,3.9,4.0,3.5,3.9
+174,Wibits Web Solutions,Data Entry Analyst,4.4,Nagercoil,254558.0,1 to 50 Employees,2014,Private,Information Technology Support Services,Information Technology,4.3,3.8,4.6,4.6,5.0
+175,Oracle,Data Center Technician,3.8,Hyderābād,765953.0,10000+ Employees,1977,Public,Enterprise Software & Network Solutions,Information Technology,3.6,3.5,3.7,3.5,4.0
+176,Info Edge,Data Scientist,2.4,Noida,469574.0,51 to 200 Employees,2003,Private,Advertising & Public Relations,Media & Communication,2.8,2.7,3.3,2.3,2.4
+177,Eaton,Data Analyst,4.1,Pune,529906.0,10000+ Employees,1911,Public,Electronics Manufacturing,Manufacturing,3.9,3.9,4.2,3.6,4.0
+178,Deloitte,GCP_Data_Engineer,4.1,Bengaluru,635423.0,10000+ Employees,1850,Private,Accounting & Tax,Finance,4.1,4.0,4.1,3.8,3.3
+179,William O’Neil India,Data Research Analyst,3.9,Bengaluru,381743.0,201 to 500 Employees,--,Private,--,--,4.0,3.8,4.0,4.1,4.3
+180,Smiths Group,Data Analyst,3.3,Bengaluru,1027178.0,10000+ Employees,1851,Public,Machinery Manufacturing,Manufacturing,2.8,3.0,3.3,2.9,3.3
+181,Snapchat,"Data Scientist, India",3.9,Mumbai,426368.0,5001 to 10000 Employees,2011,Public,Computer Hardware Development,Information Technology,3.4,4.3,3.8,3.0,3.6
+182,Galytix,Data Analyst,2.8,Gurgaon,549090.0,51 to 200 Employees,2015,Private,Information Technology Support Services,Information Technology,2.9,2.8,2.7,2.7,2.6
+183,NetApp,"Data Analyst ( MS Excel, PowerBI, Tableau)",4.2,Bengaluru,613392.0,10000+ Employees,1992,Public,Enterprise Software & Network Solutions,Information Technology,4.0,4.2,4.3,3.8,4.2
+184,Airtel India,Data Scientist,4.1,Gurgaon,20000.0,10000+ Employees,1995,Public,Telecommunications Services,Telecommunications,4.0,3.9,3.9,3.7,3.6
+185,AlignTech,Data Analyst,3.9,Hyderābād,446411.0,10000+ Employees,1997,Public,Health Care Products Manufacturing,Manufacturing,3.6,3.9,3.7,3.4,3.5
+186,ICICI Prudential Life Insurance,Data scientist,4.4,Mumbai,535110.0,Unknown,2001,Public,Insurance Carriers,Insurance,4.4,4.3,4.3,4.2,4.1
+187,Techneplus,Data Scientist - Bangalore/Noida/Hybrid,4.4,Bengaluru,627247.0,201 to 500 Employees,2017,Private,Information Technology Support Services,Information Technology,4.5,4.2,4.6,4.6,4.4
+188,Schneider Electric,Data Analyst,4.2,Mumbai,261549.0,10000+ Employees,1836,Public,Energy & Utilities,"Energy, Mining, Utilities",4.1,3.8,4.2,3.8,4.0
+189,bp,Data Quality Analyst,4.0,Pune,577632.0,10000+ Employees,1908,Public,Energy & Utilities,"Energy, Mining, Utilities",3.6,3.9,3.9,3.5,3.8
+190,Bharat Light & Power,Data Scientist,4.0,Bengaluru,613600.0,51 to 200 Employees,--,Private,Enterprise Software & Network Solutions,Information Technology,4.1,3.8,4.0,3.9,3.9
+191,Ignitho,Data Scientist Associate,4.3,Chennai,830662.0,51 to 200 Employees,2016,Private,Information Technology Support Services,Information Technology,4.4,4.1,4.3,4.1,4.4
+192,Cognizant Technology Solutions,Process Specialist - Data,3.8,Hyderābād,588183.0,10000+ Employees,1994,Public,Information Technology Support Services,Information Technology,3.6,3.4,3.7,3.3,3.6
+193,Ignitho,Data Scientist,4.3,Chennai,830662.0,51 to 200 Employees,2016,Private,Information Technology Support Services,Information Technology,4.4,4.1,4.3,4.1,4.4
+194,KhataBook,Data Engineer - I,3.3,Bengaluru,842992.0,51 to 200 Employees,2018,Private,Internet & Web Services,Information Technology,3.1,3.6,3.2,2.7,3.4
+195,TecStub,Data Analyst (Power BI),4.1,Ahmedabad,161194.0,51 to 200 Employees,2014,Private,Software Development,Information Technology,4.2,4.1,4.1,4.1,4.1
+196,AtkinsRéalis,Data Scientist,4.0,Gurgaon,840953.0,10000+ Employees,1911,Public,Construction,"Construction, Repair & Maintenance Services",3.8,3.7,3.9,3.5,3.9
+197,Microsoft,Data Analyst,4.2,Hyderābād,394497.0,10000+ Employees,1975,Public,Computer Hardware Development,Information Technology,4.0,4.1,4.2,3.8,4.1
+198,Airbus,Data Analyst & Developer,4.1,Bengaluru,486056.0,1001 to 5000 Employees,1970,Public,Aerospace & Defence,Aerospace & Defence,3.9,3.9,4.0,3.5,4.2
+199,HP,Data Scientist 3,4.1,Bengaluru,830662.0,10000+ Employees,1939,Public,Computer Hardware Development,Information Technology,3.7,3.7,4.3,3.8,4.2
+200,BP Energy,Data Quality Analyst,4.0,Pune,577632.0,10000+ Employees,1908,Public,Energy & Utilities,"Energy, Mining, Utilities",3.6,3.9,3.9,3.5,3.8
+201,Sandvik,Data Entry Operator,4.2,Udaipur,415692.0,10000+ Employees,1862,Public,Machinery Manufacturing,Manufacturing,3.8,3.9,4.0,3.5,3.9
+202,"Medpace, Inc.",Data Coordinator - Core Laboratory,3.4,Thāne,589237.0,5001 to 10000 Employees,1992,Public,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,3.3,3.0,3.2,3.0,3.2
+203,Innovaccer,Data Ops Engineer-I,3.4,Noida,949971.0,1001 to 5000 Employees,2014,Private,Healthcare Services & Hospitals,Healthcare,3.6,3.6,3.4,3.2,3.1
+204,NovoTree Minds Consulting,Data Engineer,5.0,Bengaluru,548635.0,1 to 50 Employees,2010,Private,HR Consulting,Human Resources & Staffing,5.0,4.9,4.9,4.9,5.0
+205,Millennium,Data Download/Extraction Engineer (Commodities),4.7,Bengaluru,743371.0,5001 to 10000 Employees,1989,Private,Investment & Asset Management,Finance,4.8,4.8,5.0,5.0,5.0
+206,Flipkart,Data Engineer II,3.9,Bengaluru,687410.0,10000+ Employees,2007,Private,Internet & Web Services,Information Technology,3.9,3.6,3.8,3.5,3.4
+207,CoinDCX,Data Engineer,4.1,Bengaluru,385400.0,201 to 500 Employees,2018,Private,Investment & Asset Management,Finance,4.0,4.1,4.1,3.8,4.0
+208,Iron Mountain,Data Analyst,3.7,Bengaluru,614010.0,10000+ Employees,1951,Public,Information Technology Support Services,Information Technology,3.3,3.5,3.5,3.3,3.6
+209,The Stakeholder Company Pte. Ltd.,Customer Solutions Engineer - Data,4.0,Mumbai,393700.0,51 to 200 Employees,--,Private,--,--,3.7,3.4,4.3,4.0,3.8
+210,Visa,Data Scientist,4.1,Bengaluru,324000.0,10000+ Employees,1958,Public,Information Technology Support Services,Information Technology,3.8,4.0,4.1,3.7,4.0
+211,Globussoft Technologies,Data Science,4.4,India,360000.0,201 to 500 Employees,2009,Private,Computer Hardware Development,Information Technology,4.5,4.0,4.1,4.2,4.1
+212,Infosys,Big Data Developer,3.8,Bengaluru,443530.0,10000+ Employees,1981,Public,Information Technology Support Services,Information Technology,3.8,3.0,4.0,3.5,3.7
+213,Empower,Sr Analyst Data Science,3.9,Bengaluru,394308.0,10000+ Employees,1907,Private,Investment & Asset Management,Finance,3.9,3.6,3.9,3.6,4.0
+214,Zebra Technologies,"Data Scientist, II",4.1,Bengaluru,720134.0,5001 to 10000 Employees,1969,Public,Computer Hardware Development,Information Technology,3.8,3.8,4.1,3.8,4.0
+215,ZS Associates,Advanced Data Science Associate,3.7,Gurgaon,624732.0,10000+ Employees,1983,Private,Business Consulting,Management & Consulting,3.9,4.0,3.9,3.5,2.4
+216,Myntra.com,Senior Manager - Data Analyst,4.0,Bengaluru,742967.0,1001 to 5000 Employees,2007,Private,Internet & Web Services,Information Technology,3.8,3.7,4.0,3.5,3.5
+217,Thoucentric,NLP Data Scientist,4.1,Bengaluru,875186.0,201 to 500 Employees,2015,Private,Business Consulting,Management & Consulting,3.8,3.5,4.5,4.1,4.0
+218,UBS,Reporting & Metrics Data Analyst,3.9,Pune,806241.0,10000+ Employees,1862,Public,Investment & Asset Management,Finance,3.6,3.5,3.9,3.5,3.8
+219,StockX,Data Engineer,3.6,Bengaluru,364505.0,1001 to 5000 Employees,2016,Private,Internet & Web Services,Information Technology,3.3,3.6,3.6,3.1,3.4
+220,S&P Global,Carbon Markets Data Analyst,4.1,Gurgaon,578496.0,10000+ Employees,1860,Public,Research & Development,Management & Consulting,3.8,3.8,4.2,3.8,4.2
+221,Innovaccer,Apprentice - Data Engineer,3.4,Noida,949526.0,1001 to 5000 Employees,2014,Private,Healthcare Services & Hospitals,Healthcare,3.6,3.6,3.4,3.2,3.1
+222,PineBridge Investments,Data Scientist /Quantitative Equity Researcher_2,3.8,Mumbai,987787.0,501 to 1000 Employees,2010,Private,Investment & Asset Management,Finance,3.7,3.2,3.8,3.8,4.3
+223,Tata Technologies,ALM Users - Data Mining,3.8,Bengaluru,789523.0,10000+ Employees,1989,Private,Research & Development,Management & Consulting,3.6,3.4,3.8,3.4,3.8
+224,S&P Global,Data Transformation Analyst I,4.1,Gurgaon,578496.0,10000+ Employees,1860,Public,Research & Development,Management & Consulting,3.8,3.8,4.2,3.8,4.2
+225,UST,Associate II - Data Science,4.0,Bengaluru,425000.0,10000+ Employees,1999,Private,Information Technology Support Services,Information Technology,3.8,3.5,4.0,3.7,4.0
+226,Wesco,India-Bangalore: Data Scientist,3.7,Bengaluru,698711.0,10000+ Employees,1922,Public,Wholesale,Retail & Wholesale,3.5,3.4,3.6,3.3,3.8
+227,Microsoft,Data Engineer II,4.2,Noida,828415.0,10000+ Employees,1975,Public,Computer Hardware Development,Information Technology,4.0,4.1,4.2,3.8,4.1
+228,Epsilon,Data Scientist 2,4.2,Bengaluru,987421.0,5001 to 10000 Employees,1969,Subsidiary or Business Segment,Advertising & Public Relations,Media & Communication,3.9,3.8,4.2,3.8,4.1
+229,Tata Consultancy Services,GCP Data Engineer,3.8,Hyderābād,516307.0,10000+ Employees,1968,Public,Software Development,Information Technology,3.7,3.1,3.9,3.3,3.8
+230,TechnoServe Inc.,Data Analyst Associate - PMA,4.1,Mumbai,522673.0,51 to 200 Employees,--,Private,Grantmaking & Charitable Foundations,Non-profit & NGO,4.1,3.6,4.3,4.1,4.0
+231,Magna International Inc.,Data Scientist,3.8,Bengaluru,810555.0,10000+ Employees,1957,Public,Transportation Equipment Manufacturing,Manufacturing,3.7,3.7,3.5,3.3,3.2
+232,Enel,Data Management Analyst - Night Shift,4.0,Mumbai,259037.0,10000+ Employees,1962,Private,Energy & Utilities,"Energy, Mining, Utilities",3.4,3.7,3.9,3.4,3.8
+233,Retransform,Data Scientist,4.1,Mumbai,144000.0,201 to 500 Employees,1998,Private,Business Consulting,Management & Consulting,4.0,3.4,4.0,4.1,4.0
+234,MRI Software,Data Analyst (Database Management),3.6,Bengaluru,583095.0,1001 to 5000 Employees,1971,Private,Computer Hardware Development,Information Technology,3.6,3.4,3.8,3.4,3.9
+235,Blue Yonder,"Data Engineer (Python, SQL, Query Optimization, DBMS)",4.1,Bengaluru,742170.0,5001 to 10000 Employees,1985,Private,Enterprise Software & Network Solutions,Information Technology,3.9,3.9,4.2,3.7,4.0
+236,Aptus Data LAbs,Data Scientist,4.1,Bengaluru,820000.0,51 to 200 Employees,2014,Private,Information Technology Support Services,Information Technology,4.1,3.8,3.8,3.8,4.2
+237,Facile Services,Data Research Trainee,3.9,Pune,327977.0,201 to 500 Employees,--,Private,--,--,3.8,3.6,3.7,3.5,3.5
+238,Tax Genie,Data Analyst(BI),3.3,Mumbai,220661.0,51 to 200 Employees,2017,Private,Information Technology Support Services,Information Technology,3.9,3.4,3.9,3.7,3.7
+239,Yamaha Motor Solutions India Pvt.Ltd.,Data Scientist,4.1,Farīdābād,526300.0,1001 to 5000 Employees,1955,Public,Transportation Equipment Manufacturing,Manufacturing,3.7,3.9,3.9,3.6,3.6
+240,ADCI - Haryana,"Data Associate I (Italian), ML Data Ops",3.7,Gurgaon,314223.0,10000+ Employees,1994,Public,Internet & Web Services,Information Technology,3.7,3.8,3.6,3.3,3.2
+241,FrugalTesting,Data Entry Operator,4.8,Hyderābād,185903.0,51 to 200 Employees,2016,Private,Information Technology Support Services,Information Technology,4.8,4.6,4.8,4.8,4.7
+242,Rishi FIBC Solutions,Data Analysis,3.1,Vadodara,497861.0,501 to 1000 Employees,--,Private,--,--,3.1,2.8,2.9,3.1,2.8
+243,Linxon,Data Analyst - HSE,4.3,Chennai,387298.0,501 to 1000 Employees,--,Public,--,--,4.2,4.1,4.0,4.1,3.9
+244,DataEconomy,Data Scientist,4.7,Hyderābād,572423.0,201 to 500 Employees,2018,Private,Information Technology Support Services,Information Technology,4.7,3.9,4.5,4.7,3.9
+245,United Airlines,Analyst - Data Scientist,3.9,Gurgaon,110000.0,10000+ Employees,1926,Public,"Airlines, Airports & Air Transportation",Transportation & Logistics,3.9,3.8,3.6,3.2,3.4
+246,EIE Instruments,Data Analyst,3.9,Ahmedabad,17500.0,51 to 200 Employees,--,Private,Machinery Manufacturing,Manufacturing,3.2,3.9,3.3,3.2,3.8
+247,Maruti Suzuki India Ltd,Data Analyst - R&D,3.9,Bengaluru,824049.0,10000+ Employees,--,Public,Transportation Equipment Manufacturing,Manufacturing,3.7,4.0,3.4,3.3,3.1
+248,Tata Consultancy Services,"Big data- Pyspark, Hive",3.8,Chennai,432461.0,10000+ Employees,1968,Public,Software Development,Information Technology,3.7,3.1,3.9,3.3,3.8
+249,NovoTree Minds Consulting,Data Analyst,5.0,Bengaluru,612372.0,1 to 50 Employees,2010,Private,HR Consulting,Human Resources & Staffing,5.0,4.9,4.9,4.9,5.0
+250,"Medpace, Inc.",Data Coordinator - Core Laboratory,3.4,Thāne,589237.0,5001 to 10000 Employees,1992,Public,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,3.3,3.0,3.2,3.0,3.2
+251,Tokopedia,Data Scientist - TopAds,4.3,Noida,270000.0,5001 to 10000 Employees,2009,Public,Internet & Web Services,Information Technology,3.9,3.9,4.4,3.8,4.0
+252,AXA,Assistant Scientist- Data Engineering,4.0,Bengaluru,798123.0,10000+ Employees,1985,Private,Insurance Carriers,Insurance,3.6,3.6,3.9,3.5,3.9
+253,Tata Elxsi,Data Science Engineers,4.1,Bengaluru,718666.0,10000+ Employees,1989,Public,Information Technology Support Services,Information Technology,4.1,3.4,4.2,3.7,4.0
+254,Dyuti Technologies,Data Entry Operator,3.3,Bengaluru,158291.0,Unknown,--,Public,--,--,2.0,2.0,2.0,1.5,2.0
+255,Zycus,Data Analyst,3.4,Mumbai,469042.0,1001 to 5000 Employees,1998,Private,Enterprise Software & Network Solutions,Information Technology,3.4,2.9,3.1,2.9,3.0
+256,Petpooja,Data Scientist,4.5,Ahmedabad,269039.0,501 to 1000 Employees,2011,Private,Enterprise Software & Network Solutions,Information Technology,4.3,4.0,4.4,4.2,4.2
+257,DAZN,Data Service Analyst,2.8,Hyderābād,227684.0,1001 to 5000 Employees,2015,Private,Internet & Web Services,Information Technology,2.7,2.9,2.6,2.3,3.1
+258,RARR Technologies Pvt Ltd,Data Governance Admin,4.7,Remote,2600000.0,1 to 50 Employees,2018,Private,Software Development,Information Technology,4.7,4.5,4.9,4.9,4.8
+259,PayU,Data Scientist,3.7,Bengaluru,606842.0,1001 to 5000 Employees,2002,Private,Internet & Web Services,Information Technology,3.6,3.6,3.6,3.4,3.6
+260,Algoscale,Data Scientist,4.0,Noida,692820.0,51 to 200 Employees,2014,Private,Information Technology Support Services,Information Technology,3.9,3.5,3.9,3.9,4.0
+261,Xitadel,Data Science,3.9,Bengaluru,483915.0,1 to 50 Employees,--,Private,--,--,3.8,3.1,3.6,3.5,3.7
+262,Retransform,Web Research/ Data Entry Operator,4.1,Mumbai,226941.0,201 to 500 Employees,1998,Private,Business Consulting,Management & Consulting,4.0,3.4,4.0,4.1,4.0
+263,Uplers,Business Data Analyst | QA - WFH,4.2,Remote,159500.0,501 to 1000 Employees,2012,Private,Information Technology Support Services,Information Technology,4.0,3.9,4.3,3.9,4.2
+264,Zehntech,Data Engineer,3.1,Indore,384758.0,201 to 500 Employees,2013,Private,Software Development,Information Technology,3.1,3.2,3.4,2.9,2.8
+265,Transaction Network Services,Data Scientist,3.4,Noida,474342.0,501 to 1000 Employees,--,Private,Information Technology Support Services,Information Technology,3.2,3.3,3.3,2.9,3.4
+266,Wesco,India-Bangalore: Analyst - Data Governance,3.7,Bengaluru,836660.0,10000+ Employees,1922,Public,Wholesale,Retail & Wholesale,3.5,3.4,3.6,3.3,3.8
+267,Energy Exemplar,Data Engineer,4.4,Pune,797931.0,201 to 500 Employees,1999,Private,Energy & Utilities,"Energy, Mining, Utilities",4.3,4.1,4.5,4.3,4.5
+268,Acies Global,Data Engineer - SSIS,4.6,Chennai,950000.0,51 to 200 Employees,2019,Private,Information Technology Support Services,Information Technology,4.5,4.3,4.6,4.7,4.3
+269,Recruise,1700_ Data and Market Research Analyst,4.6,Bengaluru,313623.0,51 to 200 Employees,2006,Private,HR Consulting,Human Resources & Staffing,4.6,4.1,4.7,4.6,4.5
+270,Mazenet Solution,Talend Data Integration/ETL Specialist,4.2,India,650000.0,51 to 200 Employees,2001,Private,Information Technology Support Services,Information Technology,3.9,3.7,3.8,3.8,3.8
+271,JP infotech,Big Data Engineer,3.9,Remote,1700000.0,1 to 50 Employees,--,Private,Information Technology Support Services,Information Technology,5.0,4.2,4.7,4.2,4.2
+272,RD Digital Solutions,Senior Data Engineer,4.3,Remote,3500000.0,1 to 50 Employees,--,Public,--,--,4.1,3.5,4.1,3.5,4.4
+273,Shreejan Associates,Data Creation Specialist,4.0,Bengaluru,480000.0,Unknown,--,Public,--,--,4.0,4.0,4.0,4.0,4.0
+274,Xplor,Power Bi - Data-warehouse Administrator,3.4,Pune,611726.0,1001 to 5000 Employees,1994,Private,Software Development,Information Technology,3.2,3.4,3.2,2.8,3.6
+275,Future Link Consultants,Data Modeler/Data Analyst,4.5,Gurgaon,1750000.0,1 to 50 Employees,--,Private,--,--,4.1,3.6,3.8,3.9,3.7
+276,Forbes Advisor,Data Research Analyst,3.6,Mumbai,417490.0,201 to 500 Employees,1917,Private,Publishing,Media & Communication,3.2,3.2,3.4,3.4,3.7
+277,Razor Group GmbH,Data Engineer,3.1,Gurgaon,587678.0,501 to 1000 Employees,2020,Private,Other Retail Shops,Retail & Wholesale,3.3,3.2,2.8,2.8,2.9
+278,CapB InfoteK,Remote nCode GlyphWorks enginnering Test Data Analyst,1.0,Bengaluru,619793.0,Unknown,--,Private,Business Consulting,Management & Consulting,1.0,1.0,1.0,1.0,1.0
+279,Idexcel,Data Engineer,4.3,Pune,816866.0,501 to 1000 Employees,1998,Private,Information Technology Support Services,Information Technology,4.2,3.6,3.9,4.1,4.1
+280,Excelr Solutions,Data Analyst Trainer,3.8,Hyderābād,750000.0,1 to 50 Employees,--,Public,--,--,4.0,4.1,3.8,3.9,3.8
+281,Exusia,IBM Infosphere Data Quality Lead / Senior Developers,4.0,Remote,2180762.0,201 to 500 Employees,2012,Private,Information Technology Support Services,Information Technology,4.1,4.1,4.1,4.1,4.1
+282,CGI,Big Data Engineer,3.8,Bengaluru,642067.0,10000+ Employees,1976,Public,Business Consulting,Management & Consulting,3.7,3.3,3.9,3.6,3.9
+283,expert global solutions Pvt. Ltd,Data Annotator,3.2,Coimbatore,246274.0,10000+ Employees,1999,Private,HR Consulting,Human Resources & Staffing,3.2,2.9,3.1,2.9,3.0
+284,ONX,ZOHO Data Analyst,2.8,Bengaluru,316571.0,Unknown,--,Private,Real Estate,Real Estate,2.7,3.0,2.7,2.7,2.7
+285,Universal Electronics Inc.,Software Engineer (Data Science),3.5,Bengaluru,528092.0,201 to 500 Employees,--,Public,Electronics Manufacturing,Manufacturing,3.5,2.8,3.0,3.0,3.6
+286,PepsiCo,Data Science Analyst,4.0,Hyderābād,968061.0,10000+ Employees,1965,Public,Food & Beverage Manufacturing,Manufacturing,3.8,3.9,3.9,3.6,3.5
+287,Robas Research,Market Research Data Analyst,4.1,Bengaluru,509902.0,1 to 50 Employees,2012,Private,Information Technology Support Services,Information Technology,4.1,3.4,3.9,3.9,4.0
+288,"Medpace, Inc.",Data Coordinator - Core Laboratory,3.4,Thāne,589237.0,5001 to 10000 Employees,1992,Public,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,3.3,3.0,3.2,3.0,3.2
+289,Manupatra Information Solutions Pvt. Ltd.,Data Entry Operator (DEO),4.0,Noida,12500.0,51 to 200 Employees,2000,Private,Enterprise Software & Network Solutions,Information Technology,3.9,3.8,3.8,3.9,4.0
+290,Good Business Lab,Data Associate,4.7,India,925000.0,51 to 200 Employees,2017,Non-profit Organisation,"Civic, Welfare & Social Services",Non-profit & NGO,4.5,4.4,4.8,4.6,4.5
+291,Travelopia,Business Analyst,4.1,Bengaluru,449374.0,1001 to 5000 Employees,2016,Private,Travel Agencies,Hotel & Travel Accommodation,3.7,3.8,4.0,3.7,4.1
+292,Nielsen,"Big Data Engineers (Airflow, Python, Spark)",3.6,Bengaluru,407272.0,10000+ Employees,1923,Public,Enterprise Software & Network Solutions,Information Technology,3.2,3.2,3.7,3.1,3.8
+293,Zeitview,Lead - ML data labelling,3.2,Bengaluru,444082.0,1 to 50 Employees,2014,Private,Internet & Web Services,Information Technology,3.0,2.7,3.3,3.1,3.6
+294,Xplor,Data Analytics Engineer,3.4,Pune,611726.0,1001 to 5000 Employees,1994,Private,Software Development,Information Technology,3.2,3.4,3.2,2.8,3.6
+295,JPMorgan Chase & Co,Client Data Analyst,4.0,Hyderābād,640045.0,10000+ Employees,1799,Public,Banking & Lending,Finance,4.0,3.9,3.9,3.6,3.7
+296,Deliveroo,Data Scientist - Consumer,3.6,Hyderābād,645179.0,1001 to 5000 Employees,2013,Public,Internet & Web Services,Information Technology,3.1,3.3,3.6,3.1,3.8
+297,First Advantage,Associate Business Data Analyst – (Metrics & Analytics) - Bangalore,3.5,Bengaluru,283387.0,1001 to 5000 Employees,2003,Public,HR Consulting,Human Resources & Staffing,3.3,3.3,3.5,3.2,3.4
+298,Zoof software Solutions,Data Engineer with Alation,4.7,Remote,100000.0,51 to 200 Employees,2014,Private,Software Development,Information Technology,4.5,3.8,4.6,4.4,3.6
+299,Standard Chartered,Big Data Engineer,3.9,Bengaluru,712395.0,10000+ Employees,1969,Public,Banking & Lending,Finance,3.7,3.7,3.9,3.5,3.7
+300,SyngyMaxim Solutions Pvt Ltd,Data Engineer,4.7,Hyderābād,150000.0,1 to 50 Employees,--,Private,--,--,4.7,3.7,4.7,4.4,4.4
+301,PayU,Business Analyst - Data Science,3.7,Bengaluru,614817.0,1001 to 5000 Employees,2002,Private,Internet & Web Services,Information Technology,3.6,3.6,3.6,3.4,3.6
+302,JPMorgan Chase & Co,Data Science Senior Associate,4.0,Bengaluru,578507.0,10000+ Employees,1799,Public,Banking & Lending,Finance,4.0,3.9,3.9,3.6,3.7
+303,Sandvik,Data Entry Operator,4.2,Udaipur,415692.0,10000+ Employees,1862,Public,Machinery Manufacturing,Manufacturing,3.8,3.9,4.0,3.5,3.9
+304,AlphaSense,Data Annotation Specialist,3.8,Mumbai,464758.0,1001 to 5000 Employees,2011,Private,Enterprise Software & Network Solutions,Information Technology,3.7,4.0,3.7,3.4,3.6
+305,Anblicks,Data Scientist,3.8,Hyderābād,687113.0,501 to 1000 Employees,2004,Private,Information Technology Support Services,Information Technology,3.8,3.6,3.5,3.5,3.4
+306,Genpact,SA-Data Quality Analyst.,4.0,Hyderābād,565685.0,10000+ Employees,1997,Public,Information Technology Support Services,Information Technology,3.9,3.3,4.0,3.8,4.0
+307,Shyena Tech Yarns Pvt Ltd,Data Engineer - Trainee,3.8,Pune,5000.0,1 to 50 Employees,--,Private,--,--,3.9,3.0,3.6,3.8,3.0
+308,Tata Consultancy Services,Treasure Data Developer,3.8,Hyderābād,512355.0,10000+ Employees,1968,Public,Software Development,Information Technology,3.7,3.1,3.9,3.3,3.8
+309,Hitachi Solutions,Data Engineer,4.4,Bengaluru,921954.0,1001 to 5000 Employees,2004,Private,Business Consulting,Management & Consulting,4.5,4.5,4.4,4.2,4.2
+310,Alcon,Test Automation Engineer – DH Data analytics,3.8,Bengaluru,423074.0,10000+ Employees,1945,Public,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,3.4,3.9,3.6,3.3,3.5
+311,Tata Insights and Quants,Data Scientist,3.8,Jamshedpur,1000000.0,Unknown,--,Private,Transportation Equipment Manufacturing,Manufacturing,3.7,3.5,3.7,3.4,3.5
+312,Milestone,Data Engineer,3.9,Hyderābād,290241.0,1001 to 5000 Employees,1997,Private,Information Technology Support Services,Information Technology,3.4,3.5,3.7,3.5,3.9
+313,YMTS India,Data Scientist (ML & DL),4.1,Tirupati,225000.0,51 to 200 Employees,--,Private,--,--,4.1,3.8,4.3,3.9,4.0
+314,Moody's,Financial Data Analyst,3.9,Bengaluru,523832.0,10000+ Employees,1900,Public,Research & Development,Management & Consulting,3.4,3.4,3.8,3.4,3.7
+315,Moody's,Financial Data Associate-MSC,3.9,Gurgaon,524991.0,10000+ Employees,1900,Public,Research & Development,Management & Consulting,3.4,3.4,3.8,3.4,3.7
+316,XenonStack,Data Analyst,3.3,Mohali,513079.0,51 to 200 Employees,2016,Private,Enterprise Software & Network Solutions,Information Technology,3.3,3.0,3.1,3.0,2.8
+317,Spice Money,Data Engineer,3.9,Mohali,687235.0,201 to 500 Employees,--,Private,Financial Transaction Processing,Finance,3.9,3.8,4.1,3.7,3.6
+318,One Sigma Technologies,Data Analyst Fraud,3.7,Bengaluru,777892.0,501 to 1000 Employees,2015,Private,Internet & Web Services,Information Technology,3.7,3.9,3.7,3.6,3.6
+319,Perfex Technologies,Data Base developer,4.4,Hyderābād,449258.0,201 to 500 Employees,--,Private,--,--,4.4,3.9,4.4,3.9,4.4
+320,In Time Tec,Data Engineer,4.0,Bengaluru,579719.0,501 to 1000 Employees,2009,Private,Computer Hardware Development,Information Technology,4.0,3.5,4.1,3.9,3.7
+321,Sitetracker,Data Research Analyst,4.1,Bengaluru,547723.0,201 to 500 Employees,2014,Private,Enterprise Software & Network Solutions,Information Technology,3.9,4.2,4.1,3.9,4.1
+322,Brandmuscle,Data Scientist,3.1,Bengaluru,567601.0,501 to 1000 Employees,2000,Private,Enterprise Software & Network Solutions,Information Technology,3.0,2.8,2.9,2.6,3.5
+323,Macgence Technologies (OPC) PVT LTD,Internship (Data Annotation),4.8,Noida,8000.0,Unknown,--,Public,--,--,5.0,5.0,5.0,5.0,5.0
+324,Data Semantics,Data Modeler,4.0,Bengaluru,526716.0,51 to 200 Employees,2012,Private,Information Technology Support Services,Information Technology,4.1,3.5,3.9,3.8,3.9
+325,Avaali Solutions,Data Analyst,4.5,Bengaluru,745359.0,51 to 200 Employees,2012,Private,Enterprise Software & Network Solutions,Information Technology,4.4,4.0,4.4,4.2,4.3
+326,TARGET,Item Data Analyst,4.3,Bengaluru,821380.0,1001 to 5000 Employees,1962,Public,General Merchandise & Superstores,Retail & Wholesale,4.1,4.0,4.6,4.0,4.4
+327,Victoria's Secret,Data Scientist,3.5,Bengaluru,266222.0,10000+ Employees,2021,Public,"Department, Clothing & Shoe Stores",Retail & Wholesale,3.2,3.3,3.4,3.1,3.1
+328,PayU,Data Platform Engineer,3.7,Bengaluru,1700000.0,1001 to 5000 Employees,2002,Private,Internet & Web Services,Information Technology,3.6,3.6,3.6,3.4,3.6
+329,EVRY India,Data Quality Analyst,3.9,Bengaluru,583095.0,1001 to 5000 Employees,1994,Subsidiary or Business Segment,Information Technology Support Services,Information Technology,3.8,3.6,3.9,3.7,4.1
+330,Acumont Solutions Private Limited,Azure data factory developer,4.5,Remote,1250000.0,1 to 50 Employees,--,Private,--,--,4.4,4.5,4.7,4.5,4.7
+331,Tech mahindra,Data Scientist,3.6,Hyderābād,509190.0,10000+ Employees,1986,Public,Information Technology Support Services,Information Technology,3.5,3.0,3.5,3.2,3.5
+332,Vega Intellisoft,Data Scientist,4.5,Bengaluru,606630.0,1 to 50 Employees,--,Private Practice / Firm,Business Consulting,Management & Consulting,4.4,4.3,4.2,4.4,4.5
+333,SUPERDNA 3D LAB,Data Miner,4.0,Chandigarh,445300.0,1 to 50 Employees,2017,Private,Information Technology Support Services,Information Technology,4.1,3.5,4.2,4.0,4.2
+334,Haleon,Data Engineer,3.8,Bengaluru,645174.0,10000+ Employees,2022,Public,Health Care Products Manufacturing,Manufacturing,3.3,3.9,3.7,3.3,3.7
+335,Navayuga Infotech,Data Annotator,3.9,Hyderābād,150000.0,51 to 200 Employees,1997,Private,Information Technology Support Services,Information Technology,3.9,3.3,3.7,3.7,3.6
+336,Clearwater Analytics,Data Flow Engineer,3.4,Noida,697247.0,1001 to 5000 Employees,2004,Public,Investment & Asset Management,Finance,3.4,3.3,3.4,3.0,3.2
+337,Certara,Data Analyst 1,4.0,Hyderābād,407603.0,1001 to 5000 Employees,2008,Public,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,4.1,4.0,4.0,3.7,3.9
+338,Knoema,Data Engineer,3.9,Bengaluru,491606.0,51 to 200 Employees,2011,Private,Enterprise Software & Network Solutions,Information Technology,3.7,3.6,3.6,3.7,3.8
+339,JPMorgan Chase & Co,Data Scientist Associate Sr,4.0,Hyderābād,529783.0,10000+ Employees,1799,Public,Banking & Lending,Finance,4.0,3.9,3.9,3.6,3.7
+340,Blenheim Chalcot India,Data Engineer,3.7,Mumbai,584148.0,51 to 200 Employees,1998,Private,Investment & Asset Management,Finance,3.5,3.5,3.7,3.2,3.5
+341,LanceTech Solutions Pvt Ltd,Senior Data Engineer,4.9,Bengaluru,1750000.0,51 to 200 Employees,2021,Private,Information Technology Support Services,Information Technology,5.0,4.7,4.4,5.0,4.6
+342,Tata Consultancy Services,Data Architect,3.8,Bengaluru,424476.0,10000+ Employees,1968,Public,Software Development,Information Technology,3.7,3.1,3.9,3.3,3.8
+343,EMIDS,Big Data Engineer|| RR/27/2024 || 5+ yrs,3.6,Bengaluru,849262.0,1001 to 5000 Employees,1999,Private,Information Technology Support Services,Information Technology,3.5,3.3,3.5,3.4,3.6
+344,Miba,Master Data Specialist,3.7,Pune,256518.0,5001 to 10000 Employees,1927,Public,Transportation Equipment Manufacturing,Manufacturing,3.1,3.4,3.4,2.9,3.8
+345,Classic Informatics Private Limited,Data Analyst,4.4,Gurgaon,529150.0,51 to 200 Employees,2002,Private,Information Technology Support Services,Information Technology,3.9,4.1,4.3,4.1,4.2
+346,Webandcraft,Data Scientist,4.1,Thrissur,482442.0,51 to 200 Employees,2012,Private,Information Technology Support Services,Information Technology,4.4,3.7,4.2,4.1,3.8
+347,Coforge Ltd.,DATA ENGINEER,3.6,Bengaluru,539802.0,10000+ Employees,2004,Public,Information Technology Support Services,Information Technology,3.4,3.3,3.5,3.2,3.5
+348,Innorenovate,Senior SQL Engineer-Data Science,4.0,Remote,2500000.0,1 to 50 Employees,--,Private,--,--,3.7,3.1,4.5,3.9,4.3
+349,Rayvat Outsourcing,AI-ML Data Analyst,2.3,Gāndhīnagar,40000.0,51 to 200 Employees,2007,Self-employed,Business Consulting,Management & Consulting,2.0,1.5,1.3,2.0,1.8
+350,Getinz,Data Engineer - GCV - HYD,4.5,Hyderābād,1350000.0,1 to 50 Employees,--,Private,--,--,4.4,4.1,4.5,4.4,4.5
+351,HSO,HSO - GS - SQL & Data Migration,4.1,Bengaluru,328634.0,1001 to 5000 Employees,1987,Private,Enterprise Software & Network Solutions,Information Technology,4.0,4.2,3.9,3.8,4.1
+352,Evalueserve,Analyst-Data Engineer,3.7,Gurgaon,774665.0,1001 to 5000 Employees,2000,Private,Business Consulting,Management & Consulting,3.6,3.2,3.7,3.5,3.6
+353,Sakhatech Information Systems,Data Engineer - California,4.3,Bengaluru,538615.0,51 to 200 Employees,2005,Private,Information Technology Support Services,Information Technology,4.2,3.9,4.2,4.1,4.2
+354,Tech mahindra,GCP Data Engineer,3.6,Bengaluru,421710.0,10000+ Employees,1986,Public,Information Technology Support Services,Information Technology,3.5,3.0,3.5,3.2,3.5
+355,TMI Group,"Data Scientist (Statistian, Bayesian modelli...",3.9,Hyderābād,1750000.0,Unknown,--,Public,--,--,5.0,3.0,5.0,5.0,5.0
+356,HQ Account LLC,Data Engineer,4.1,Cochin,376162.0,10000+ Employees,1867,Public,Food & Beverage Manufacturing,Manufacturing,3.9,3.9,4.1,3.7,3.7
+357,ANZ Banking Group,Data Engineer,4.1,Bengaluru,799375.0,5001 to 10000 Employees,1835,Public,Banking & Lending,Finance,3.8,3.7,4.1,3.6,4.1
+358,Synopsys,Data Analyst (License Compliance),4.0,Noida,519591.0,10000+ Employees,1986,Public,Computer Hardware Development,Information Technology,3.9,3.7,4.1,3.8,4.0
+359,MRI Software,Data Engineer Level II,3.6,Bengaluru,401313.0,1001 to 5000 Employees,1971,Private,Computer Hardware Development,Information Technology,3.6,3.4,3.8,3.4,3.9
+360,RamSoft,Data Engineer,3.4,Bengaluru,857763.0,51 to 200 Employees,1994,Private,Software Development,Information Technology,3.1,3.6,3.2,3.1,3.7
+361,Warner Bros. Discovery,Associate Data Engineer,3.6,Hyderābād,556230.0,10000+ Employees,2003,Public,Film Production,Media & Communication,3.1,3.6,3.4,3.0,3.6
+362,Sprinklr,Data quality Analyst,3.4,Gurgaon,779230.0,1001 to 5000 Employees,2009,Public,Enterprise Software & Network Solutions,Information Technology,3.3,3.8,3.1,3.0,2.8
+363,KPMG,Lighthouse Pyspark Data Engineer,3.8,Bengaluru,591608.0,10000+ Employees,1987,Private,Business Consulting,Management & Consulting,4.0,3.3,3.7,3.5,3.0
+364,Arm,Data Platform Administrator,4.4,Bengaluru,555354.0,1001 to 5000 Employees,1990,Public,Computer Hardware Development,Information Technology,4.2,4.2,4.5,3.9,4.4
+365,SIGMOID,Associate Data Scientist,4.0,Bengaluru,861070.0,501 to 1000 Employees,2013,Private,Information Technology Support Services,Information Technology,4.0,3.8,3.8,3.8,3.7
+366,S&P Global,LNG Data Analyst,4.1,Gurgaon,578496.0,10000+ Employees,1860,Public,Research & Development,Management & Consulting,3.8,3.8,4.2,3.8,4.2
+367,Komodo Health,Research Data Analyst,3.5,Chennai,476943.0,501 to 1000 Employees,2014,Private,Enterprise Software & Network Solutions,Information Technology,3.3,3.7,3.5,3.1,3.8
+368,Criteo,"Data Analyst, Retail Media, India",4.2,Gurgaon,910165.0,1001 to 5000 Employees,2005,Public,Internet & Web Services,Information Technology,3.8,4.1,4.4,3.8,4.4
+369,Macgence Technologies (OPC) PVT LTD,Internship (Data Annotation),4.8,Remote,5000.0,Unknown,--,Public,--,--,5.0,5.0,5.0,5.0,5.0
+370,SAP,Data Scientist for 3rd Party Data Management,4.4,Bengaluru,734492.0,10000+ Employees,1972,Public,Enterprise Software & Network Solutions,Information Technology,4.1,4.0,4.4,3.9,4.3
+371,Scaler Academy,Assistant Manager :: Data Analyst,4.0,Bengaluru,262907.0,51 to 200 Employees,2019,Private,Education Support & Training Services,Education,3.9,4.3,3.8,3.5,3.6
+372,Creditas Solutions,Data Analyst,3.5,Gurgaon,747390.0,51 to 200 Employees,2015,Private,Research & Development,Management & Consulting,3.8,3.5,3.4,3.6,3.4
+373,ADCI - Haryana - D50,"Data Associate I (German), ML Data Ops",3.7,Gurgaon,314223.0,10000+ Employees,1994,Public,Internet & Web Services,Information Technology,3.7,3.8,3.6,3.3,3.2
+374,Indecomm Global Services,Lead Associate (Data Analysis),4.0,Bengaluru,266623.0,1001 to 5000 Employees,2003,Private,Enterprise Software & Network Solutions,Information Technology,3.9,3.6,3.8,3.7,3.9
+375,Marktine Technology Solutions,Data Enginerr(Python + Sql),4.2,Bengaluru,1600000.0,51 to 200 Employees,2015,Private,Information Technology Support Services,Information Technology,4.0,3.7,4.1,4.1,4.3
+376,Moody's,Data Analyst,3.9,Bengaluru,472696.0,10000+ Employees,1900,Public,Research & Development,Management & Consulting,3.4,3.4,3.8,3.4,3.7
+377,Hilabs,Principal Data Scientist,3.6,Bengaluru,979796.0,51 to 200 Employees,2014,Private,Software Development,Information Technology,3.5,3.9,3.4,3.4,3.1
+378,Merkle,Customer Analytics / Data Science - Lead Analyst - Analytics,3.7,Bengaluru,513142.0,10000+ Employees,1971,Private,Advertising & Public Relations,Media & Communication,3.5,3.2,3.7,3.3,3.8
+379,Vexma Technologies,Data Entry,4.0,Vadodara,150838.0,1 to 50 Employees,2015,Private,Machinery Manufacturing,Manufacturing,4.3,3.5,4.4,3.9,3.5
+380,Sagacious IP,Data Analyst,4.3,Gurgaon,277156.0,201 to 500 Employees,2008,Private,Research & Development,Management & Consulting,4.4,4.0,4.2,4.1,3.9
+381,Ignitho,AWS Data Engineer,4.3,Chennai,250414.0,51 to 200 Employees,2016,Private,Information Technology Support Services,Information Technology,4.4,4.1,4.3,4.1,4.4
+382,nurture.farm,Data Analyst,4.8,Bengaluru,494975.0,1 to 50 Employees,2016,Private Practice / Firm,Information Technology Support Services,Information Technology,4.6,3.9,4.8,4.4,4.3
+383,Growisto,Data Management & MIS Associate,4.3,Navi Mumbai,522034.0,51 to 200 Employees,2016,Private,Advertising & Public Relations,Media & Communication,4.4,4.2,4.4,4.3,3.9
+384,Dhwani Rural Information Systems,Data Engineer,3.8,Gurgaon,388673.0,51 to 200 Employees,2015,Private,Software Development,Information Technology,3.9,3.3,3.8,3.7,3.3
+385,Rahi Systems,Senior Executive - Data Analytics,3.8,Pune,1750000.0,501 to 1000 Employees,2012,Private,Information Technology Support Services,Information Technology,3.5,3.5,3.8,3.6,3.4
+386,Hexanika,Data Analyst,3.5,Pune,367423.0,1 to 50 Employees,--,Private,--,--,3.8,3.1,3.9,3.8,3.7
+387,Squalas,Data Warehouse ETL Tester,5.0,Hyderābād,258198.0,1 to 50 Employees,--,Private,--,--,5.0,5.0,5.0,5.0,5.0
+388,ADCI - Uttar Pradesh,Data Engineer,3.7,Noida,520769.0,10000+ Employees,1994,Public,Internet & Web Services,Information Technology,3.7,3.8,3.6,3.3,3.2
+389,Clairvoyant,Python Data Engineer,4.0,Pune,683831.0,501 to 1000 Employees,2012,Private,Information Technology Support Services,Information Technology,3.9,3.7,4.0,3.8,3.8
+390,Providence Global Center,Data Annotation Analyst,3.6,Hyderābād,315247.0,501 to 1000 Employees,1855,Non-profit Organisation,Healthcare Services & Hospitals,Healthcare,3.6,3.4,3.7,3.1,3.4
+391,Elfonze Technologies,"Microsoft Azure including Azure Blob Storage, Azure Data Lake Storage.",4.8,Hyderābād,352564.0,51 to 200 Employees,--,Private,--,--,4.8,4.6,4.8,4.8,4.7
+392,altbalaji,Data Analyst,2.8,Mumbai,264811.0,51 to 200 Employees,--,Public,--,--,3.0,2.9,2.3,2.3,2.0
+393,Biz4Group,AI Data Scientist,4.4,Jaipur,571421.0,1 to 50 Employees,2003,Private,Information Technology Support Services,Information Technology,4.2,4.0,4.2,4.3,4.2
+394,Indecomm Technology Services,Lead Associate (Data Analysis),4.0,Bengaluru,266623.0,1001 to 5000 Employees,2003,Private,Enterprise Software & Network Solutions,Information Technology,3.9,3.6,3.8,3.7,3.9
+395,Bombay Play,Data Analyst,4.3,Bengaluru,240000.0,51 to 200 Employees,2017,Private,Video Game Publishing,Media & Communication,4.3,4.2,4.3,4.1,4.3
+396,Screen Magic Mobile Media Pvt. Ltd.,Data Analyst,3.6,Pune,463527.0,51 to 200 Employees,2008,Private,Enterprise Software & Network Solutions,Information Technology,3.7,3.6,3.3,3.2,3.2
+397,Zeitview,Data Analyst - Utility Linesman,3.2,Bengaluru,662628.0,1 to 50 Employees,2014,Private,Internet & Web Services,Information Technology,3.0,2.7,3.3,3.1,3.6
+398,PayU,Data Engineer,3.7,Bengaluru,762764.0,1001 to 5000 Employees,2002,Private,Internet & Web Services,Information Technology,3.6,3.6,3.6,3.4,3.6
+399,Macgence Technologies (OPC) PVT LTD,Internship (Data Annotation),4.8,Remote,5000.0,Unknown,--,Public,--,--,5.0,5.0,5.0,5.0,5.0
+400,Empower,Sr Analyst Data Science,3.9,Bengaluru,394308.0,10000+ Employees,1907,Private,Investment & Asset Management,Finance,3.9,3.6,3.9,3.6,4.0
+401,Paytm,MS SQL- DBA,3.6,Noida,514293.0,10000+ Employees,2010,Public,Internet & Web Services,Information Technology,3.8,3.6,3.3,3.3,3.2
+402,Adobe,Data Scientist,4.3,Noida,488950.0,10000+ Employees,1982,Public,Computer Hardware Development,Information Technology,4.0,4.2,4.4,3.9,4.2
+403,Blue Yonder,Business Analytics Analyst I,4.1,Bengaluru,725428.0,5001 to 10000 Employees,1985,Private,Enterprise Software & Network Solutions,Information Technology,3.9,3.9,4.2,3.7,4.0
+404,Adobe,Senior Data Architect,4.3,Bengaluru,754707.0,10000+ Employees,1982,Public,Computer Hardware Development,Information Technology,4.0,4.2,4.4,3.9,4.2
+405,Crossroad Elf DSS,Data Analytics Developer,4.8,Bengaluru,526498.0,1 to 50 Employees,2017,Private,Information Technology Support Services,Information Technology,5.0,5.0,5.0,5.0,5.0
+406,Fusemachines,Data Analyst,3.4,Pune,364005.0,51 to 200 Employees,--,Private,Internet & Web Services,Information Technology,3.6,3.0,3.7,3.0,3.6
+407,Myntra.com,Associate - Business Planning (Business Analyst),4.0,Bengaluru,804984.0,1001 to 5000 Employees,2007,Private,Internet & Web Services,Information Technology,3.8,3.7,4.0,3.5,3.5
+408,Airbus,Technical Data Analyst,4.1,Bengaluru,486056.0,1001 to 5000 Employees,1970,Public,Aerospace & Defence,Aerospace & Defence,3.9,3.9,4.0,3.5,4.2
+409,Deloitte,Consulting-SAMA A&C-Data Science,4.1,Bengaluru,748378.0,10000+ Employees,1850,Private,Accounting & Tax,Finance,4.1,4.0,4.1,3.8,3.3
+410,NeGD,Data Analysts - MoRD,3.6,New Delhi,524786.0,1 to 50 Employees,--,Non-profit Organisation,--,--,2.6,2.7,3.0,3.2,3.3
+411,HDFC Bank,Retail Credit-Data Entry Operator-BL - Jaipur,3.6,Jaipur,109408.0,10000+ Employees,1995,Public,Banking & Lending,Finance,3.6,3.3,3.2,3.1,2.7
+412,RightWave,Data Analyst,4.0,Noida,464758.0,51 to 200 Employees,2004,Private,Advertising & Public Relations,Media & Communication,4.0,3.7,3.9,3.8,3.7
+413,Skyrand Technologies,Data Entry Operator,4.7,Coimbatore,12000.0,1 to 50 Employees,--,Private,--,--,4.1,4.0,4.1,4.3,4.5
+414,StatusNeo Technology Consulting,Data Scientist,4.0,Gurgaon,501996.0,1 to 50 Employees,--,Private,--,--,4.0,3.9,4.0,3.8,3.8
+415,Emerson,Supply Chain Data Analyst,3.9,Pune,482377.0,10000+ Employees,1890,Public,Electronics Manufacturing,Manufacturing,3.7,3.4,3.9,3.5,3.8
+416,METRIO,Business Analyst,4.0,Bengaluru,594298.0,1001 to 5000 Employees,1971,Public,Stock Exchanges,Finance,3.8,3.8,4.1,3.9,4.0
+417,UBS,Data Management Analyst,3.9,Pune,682367.0,10000+ Employees,1862,Public,Investment & Asset Management,Finance,3.6,3.5,3.9,3.5,3.8
+418,GUJARAT FLUOROCHEMICALS,Data Scientist,4.3,Noida,591502.0,1001 to 5000 Employees,--,Private,Chemical Manufacturing,Manufacturing,4.2,4.0,4.0,3.8,3.9
+419,Elsevier,Senior Data Analyst I,4.5,Chennai,666813.0,5001 to 10000 Employees,1880,Subsidiary or Business Segment,Publishing,Media & Communication,4.1,4.2,4.5,4.0,4.6
+420,Resource Solutions,Operational Data Analyst,4.2,Hyderābād,405625.0,501 to 1000 Employees,1997,Subsidiary or Business Segment,HR Consulting,Human Resources & Staffing,4.1,3.9,4.2,4.1,4.1
+421,Affine,Data Analyst,4.8,Bengaluru,480625.0,1 to 50 Employees,2016,Private Practice / Firm,Information Technology Support Services,Information Technology,4.6,3.9,4.8,4.4,4.3
+422,MathCo,Senior Associate - Data Science,3.5,Bengaluru,876519.0,1001 to 5000 Employees,2016,Private,Business Consulting,Management & Consulting,3.6,3.4,3.6,3.2,2.9
+423,Larsen & Toubro,Data Analyst,3.5,Chennai,650000.0,10000+ Employees,2014,Public,Information Technology Support Services,Information Technology,3.4,2.9,3.4,3.1,3.4
+424,Lilly,Data Scientist - 1st Party Data,4.1,Bengaluru,880909.0,10000+ Employees,1876,Public,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,3.7,3.9,4.0,3.6,3.9
+425,Cityinfo Services,DATA ANALYST,3.9,Bengaluru,322490.0,51 to 200 Employees,--,Private,Real Estate,Real Estate,4.0,3.9,3.9,4.1,4.0
+426,Yara,Associate Data Engineer R&D (Contract),4.2,Bengaluru,659950.0,10000+ Employees,1905,Public,Chemical Manufacturing,Manufacturing,3.8,3.9,4.3,3.6,4.2
+427,SourceMash Technologies,Data Analyst/Power BI,3.2,Mohali,406940.0,51 to 200 Employees,--,Private,--,--,3.4,3.1,3.1,3.1,3.3
+428,Litmus7,Data Engineer,4.7,Cochin,724900.0,501 to 1000 Employees,2009,Private,Information Technology Support Services,Information Technology,4.4,4.1,4.7,4.5,4.5
+429,Mastercard,Data Engineer II,4.3,Pune,203995.0,10000+ Employees,1966,Public,Financial Transaction Processing,Finance,4.2,4.2,4.4,4.0,4.3
+430,Addepar,Market Data Analyst (Pune),4.2,Pune,420887.0,501 to 1000 Employees,2009,Private,Enterprise Software & Network Solutions,Information Technology,4.0,4.2,4.0,3.3,4.0
+431,Nuware Systems,Analyst - Data Science,4.2,Bengaluru,821380.0,51 to 200 Employees,1994,Private,Information Technology Support Services,Information Technology,3.9,3.8,4.2,4.0,4.4
+432,Schbang Digital Solutions,Business Analyst,3.8,Bengaluru,274542.0,1001 to 5000 Employees,2015,Private,Advertising & Public Relations,Media & Communication,4.0,3.2,3.9,3.5,3.4
+433,G2,Data Scientist II,4.5,Bengaluru,701282.0,501 to 1000 Employees,2012,Private,Internet & Web Services,Information Technology,4.4,4.0,4.7,4.4,4.6
+434,Creative Synergies Group,Data Analyst-Power BI,3.8,Bengaluru,761723.0,1001 to 5000 Employees,2011,Private,Software Development,Information Technology,3.9,3.6,3.8,3.9,3.8
+435,ICON,Data & Reporting Analyst II,3.8,Chennai,909945.0,10000+ Employees,1990,Public,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,3.6,3.5,3.7,3.4,3.7
+436,JPMorgan Chase & Co,Data Quality Associate,4.0,Hyderābād,640045.0,10000+ Employees,1799,Public,Banking & Lending,Finance,4.0,3.9,3.9,3.6,3.7
+437,NielsenIQ,Data Processing Analyst,3.9,Chennai,360000.0,10000+ Employees,1923,Private,Information Technology Support Services,Information Technology,3.6,3.3,4.1,3.6,3.7
+438,Blinkyard Infotech,Data Entry,3.1,Bengaluru,158291.0,Unknown,--,Public,--,--,3.1,3.1,3.1,3.1,3.1
+439,Heads Up For Tails,Inventory Manager- Data Analyst,4.3,Bengaluru,690600.0,1001 to 5000 Employees,2008,Private,Pet & Pet Supplies Stores,Retail & Wholesale,4.0,3.7,3.9,3.8,3.8
+440,Amnet Digital,Data Scientist,4.0,Hyderābād,438887.0,51 to 200 Employees,--,Private,--,--,4.1,3.7,3.9,3.9,3.9
+441,The Bridgespan Group,Platform & Data Associate,4.2,Mumbai,1400000.0,201 to 500 Employees,2000,Non-profit Organisation,"Civic, Welfare & Social Services",Non-profit & NGO,4.2,4.2,4.3,3.8,3.5
+442,Nestle Operational Services Worldwide SA,Data Engineer,4.1,Bengaluru,499919.0,10000+ Employees,1867,Public,Food & Beverage Manufacturing,Manufacturing,3.9,3.9,4.1,3.7,3.7
+443,Coforge Ltd.,DATA ANALYST - SAS,3.6,Greater Noida,781721.0,10000+ Employees,2004,Public,Information Technology Support Services,Information Technology,3.4,3.3,3.5,3.2,3.5
+444,Motive,Data Engineer,4.0,Bengaluru,616344.0,1001 to 5000 Employees,2013,Private,Software Development,Information Technology,3.9,3.9,4.1,3.7,4.0
+445,DataEconomy,AWS Data Engineer,4.7,Hyderābād,852614.0,201 to 500 Employees,2018,Private,Information Technology Support Services,Information Technology,4.7,3.9,4.5,4.7,3.9
+446,ADCI - Haryana,"Data Associate I (French), ML Data Ops",3.7,Gurgaon,317332.0,10000+ Employees,1994,Public,Internet & Web Services,Information Technology,3.7,3.8,3.6,3.3,3.2
+447,Innovative Incentives,MIS & Data Analysts,3.3,Mohali,406940.0,51 to 200 Employees,--,Private,--,--,3.3,2.9,2.9,2.8,3.2
+448,Moonpreneur,Data Research Associate,4.6,Gurgaon,406202.0,51 to 200 Employees,--,Private,--,--,5.0,5.0,5.0,5.0,4.5
+449,Sitare Foundation,Data Entry Operator,3.0,Gurgaon,204573.0,Unknown,--,Private,"Civic, Welfare & Social Services",Non-profit & NGO,3.0,3.3,2.9,3.0,2.9
+450,KRSNAA Diagnostics,Data Analyst,3.3,Pune,182166.0,Unknown,--,Private,Medical Testing & Clinical Laboratories,Healthcare,3.4,3.0,3.1,3.0,2.9
+451,Quest Global,Data Analyst,3.7,Belgaum,415258.0,10000+ Employees,1997,Private,Information Technology Support Services,Information Technology,3.7,3.2,3.8,3.5,3.7
+452,Concentrix,Data Miner Global Analytics,4.1,Bengaluru,414540.0,10000+ Employees,2004,Public,Information Technology Support Services,Information Technology,4.0,3.7,4.1,3.9,3.8
+453,PharmaACE,Data Engineer,3.3,Pune,418911.0,201 to 500 Employees,2013,Private,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,3.8,3.2,3.2,3.2,2.7
+454,Bombay Play,Data Engineer,4.3,Bengaluru,768192.0,51 to 200 Employees,2017,Private,Video Game Publishing,Media & Communication,4.3,4.2,4.3,4.1,4.3
+455,Thoucentric,Data Analyst (Advanced SQL Experience),4.1,Bengaluru,921654.0,201 to 500 Employees,2015,Private,Business Consulting,Management & Consulting,3.8,3.5,4.5,4.1,4.0
+456,Prevalent AI,Data Scientist,4.8,Cochin,691558.0,51 to 200 Employees,2017,Private,Enterprise Software & Network Solutions,Information Technology,4.9,4.5,4.9,4.8,4.1
+457,Global WeConnect Technologies,Snowflake Data Engineer,4.8,Bengaluru,591608.0,1 to 50 Employees,2020,Private,Information Technology Support Services,Information Technology,4.6,4.4,4.4,4.6,4.2
+458,IBM,Data Scientist: Artificial Intelligence,4.2,Bengaluru,747669.0,10000+ Employees,1911,Public,Information Technology Support Services,Information Technology,4.1,3.6,4.2,3.8,4.2
+459,Gain.pro,Private Equity Intelligence - Data Management Analyst,4.0,Bengaluru,384773.0,51 to 200 Employees,2018,Private,Internet & Web Services,Information Technology,3.9,3.4,3.8,3.7,4.2
+460,String Bio,DATA SCIENTIST,4.3,Bengaluru,579655.0,1 to 50 Employees,--,Private,--,--,4.6,3.3,4.5,4.7,3.6
+461,Kpro Solutions,Analytics & Data Science,4.0,Bengaluru,483915.0,1 to 50 Employees,--,Private,--,--,4.0,4.0,4.0,4.0,4.0
+462,Wesco,India-Bangalore: Data Engineer,3.7,Bengaluru,651920.0,10000+ Employees,1922,Public,Wholesale,Retail & Wholesale,3.5,3.4,3.6,3.3,3.8
+463,Course5,Data Scientist,4.2,Bengaluru,424426.0,1001 to 5000 Employees,2000,Private,Business Consulting,Management & Consulting,4.3,4.1,4.3,4.1,4.2
